@@ -1,2 +1,2 @@
 # Email-validator
-Python code to validate email (gmail domain address)
+This is a basic python code to check if the given gmail id is valid or not.
